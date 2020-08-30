@@ -1,4 +1,6 @@
-### Hi there 👋
+### Herrscher of Death
+#### Nguyễn Hoàng Phụng
+![alt](./Screenshot from 2020-08-30 19-21-32.png)
 
 <!--
 **Shadow-250/Shadow-250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
