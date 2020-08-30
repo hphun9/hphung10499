@@ -1,6 +1,10 @@
 ### Herrscher of Death
 #### Nguyễn Hoàng Phụng
-##### More about me: [Linked In](https://www.linkedin.com/in/phung-nguyen-hoang-1087661a4/)
+##### More about me: 
+1. [Linked In](https://www.linkedin.com/in/phung-nguyen-hoang-1087661a4/)      
+2. [Haccker Rank](https://www.hackerrank.com/hphung10499)
+3. [edX Profile](https://profile.edx.org/u/hphung10499)
+4. [Coursera Profile](https://www.coursera.org/user/bbaddaefff1e54908204b212984c72a9)
 ![alt professional_certificate](https://github.com/Shadow-250/Shadow-250/blob/master/Screenshot%20from%202020-08-30%2019-21-32.png)
 
 <!--
