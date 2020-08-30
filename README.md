@@ -1,6 +1,7 @@
 ### Herrscher of Death
 #### Nguyễn Hoàng Phụng
-![alt](./Screenshot from 2020-08-30 19-21-32.png)
+##### More about me: [Linkedin](https://www.linkedin.com/in/phung-nguyen-hoang-1087661a4/)
+![alt professional_certificate](https://github.com/Shadow-250/Shadow-250/blob/master/Screenshot%20from%202020-08-30%2019-21-32.png)
 
 <!--
 **Shadow-250/Shadow-250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
