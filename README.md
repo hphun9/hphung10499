@@ -1,6 +1,5 @@
 ### Nguyễn Hoàng Phụng
-![alt professional_certificate](https://github.com/Shadow-250/Shadow-250/blob/master/Screenshot%20from%202020-08-30%2019-21-32.png)
-
+Remember Comrade! One day I will conquer the world!!! ⚔
 <!--
 **Shadow-250/Shadow-250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
